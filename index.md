@@ -3,6 +3,26 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Headline here
+    slug: ''
+    content: Dr. Byrne is extremely professional and sympathetic. She takes time in
+      explaining the diagnosis and options for treatment. I would recommend her to
+      a friend or a family member without hesitation!
+  col_2:
+    headline: Headline 2 here
+    slug: ''
+    content: Dr. Byrne is extremely professional and sympathetic. She takes time in
+      explaining the diagnosis and options for treatment. I would recommend her to
+      a friend or a family member without hesitation!
+  col_3:
+    headline: Headline 3 here
+    slug: ''
+    content: Dr. Byrne is extremely professional and sympathetic. She takes time in
+      explaining the diagnosis and options for treatment. I would recommend her to
+      a friend or a family member without hesitation!
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
@@ -80,19 +100,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: ''
-    slug: ''
-    content: ''
-  col_2:
-    headline: ''
-    slug: ''
-    content: ''
-  col_3:
-    headline: ''
-    slug: ''
-    content: ''
 
 ---
